@@ -1,0 +1,10 @@
+GuitarNotebk
+
+A quick reference for tabs
+
+the purpose of this website is to help people learn guitar,
+by providing a quick reference for chords and tabs.
+Users also have a space to  input helpful reminders for their technique.  
+
+Users will be able to search tabs and chords from a database,
+and add notes.

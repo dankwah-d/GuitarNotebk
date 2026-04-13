@@ -1,0 +1,21 @@
+body{
+    background-color: tan;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif  
+}
+nav{
+    background-color: tan;
+    color: white;        
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex; 
+    gap: 15px;
+}
+#form-group{
+    background-color: BROWN;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.warehouse-pic{
+    border-radius: 8px; 
+    width: 400px;
+}
